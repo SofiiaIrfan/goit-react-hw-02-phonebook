@@ -1,0 +1,13 @@
+body {
+    background-color: rgb(185, 185, 185);
+  }
+  
+  button {
+    display: inline-block;
+  }
+  
+  h1,
+  h2 {
+    text-align: center;
+  }
+  
